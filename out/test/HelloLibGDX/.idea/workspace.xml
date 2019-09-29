@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3f63e8d-f715-4888-949a-76267321efbf" name="Default Changelist" comment="" />
+    <list default="true" id="d3f63e8d-f715-4888-949a-76267321efbf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/DesktopLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/MyGdxGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/MyGdxGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/Star.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RPpGv7kkmXhIzHg72XpUvPtFbl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -82,11 +94,27 @@
       <option name="presentableId" value="Default" />
       <updated>1569578492966</updated>
       <workItem from="1569578497545" duration="2238000" />
-      <workItem from="1569580938711" duration="4676000" />
+      <workItem from="1569580938711" duration="5289000" />
+      <workItem from="1569680523197" duration="760000" />
+      <workItem from="1569681459457" duration="328000" />
+      <workItem from="1569727156752" duration="4553000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

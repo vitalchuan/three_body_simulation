@@ -16,7 +16,7 @@ public class Star
                 float vx, float vy, float vz)
     {
         mess = m;
-        size = 10 * (float) Math.sqrt((double) m);
+        size = 6 * (float) Math.sqrt((double) m);
         position = new Vector3(px, py, pz);
         velocity = new Vector3(vx, vy, vz);
         color = new Color(Color.RED);

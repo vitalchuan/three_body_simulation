@@ -2,39 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3f63e8d-f715-4888-949a-76267321efbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/61061.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/libgdx_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloLibGDX.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/META-INF/HelloLibGDX.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/DesktopLauncher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/Effect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/MainGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/Star.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/libraries/libgdx_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/HelloLibGDX.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/META-INF/HelloLibGDX.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/DesktopLauncher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/Effect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/MainGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/Star.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/DesktopLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/Effect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/MainGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/MyGdxGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/dictionaries/61061.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloLibGDX/com/libgdx/hellolibgdx/Star.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/DesktopLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/Effect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/MyGdxGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HelloLibGDX/com/libgdx/hellolibgdx/Star.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/MyGdxGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/MyGdxGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/libgdx/hellolibgdx/Star.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +101,9 @@
       <updated>1569578492966</updated>
       <workItem from="1569578497545" duration="2238000" />
       <workItem from="1569580938711" duration="5289000" />
+      <workItem from="1569680523197" duration="760000" />
+      <workItem from="1569681459457" duration="328000" />
+      <workItem from="1569727156752" duration="4895000" />
     </task>
     <servers />
   </component>
@@ -132,7 +115,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
